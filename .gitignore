@@ -1,3 +1,7 @@
+# Not versionned
+_*
+dist/
+
 # Logs
 logs
 *.log
